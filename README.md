@@ -87,3 +87,27 @@ Inferential statistics involve drawing conclusions about a population based on a
 *Confidence Intervals:* Provide a range of values that likely contain the population parameter.
 
 *Regression Analysis:* Examines relationships between variables.
+
+**Conclusion**
+
+The statistical analysis of the healthcare dataset provides valuable insights into the numeric features of the data, specifically Age and Billing Amount. Here’s a summary of what was covered:
+
+**Descriptive Statistics:**
+
+**Mean, Median, Mode:** The central tendency of Age and Billing Amount is assessed to understand the typical values in the dataset.
+Standard Deviation and Variance: Measures of dispersion indicate how spread out the values are around the mean.
+**Range:** The difference between the maximum and minimum values highlights the extent of variation.
+**Skewness and Kurtosis:** These metrics provide insights into the shape of the distribution, helping to understand the asymmetry and the peak of the data.
+
+**Inferential Statistics:**
+
+**One-Sample T-Test:** Evaluated whether the average Age in the dataset significantly differs from a hypothetical population mean of 40. The t-statistic and p-value indicate whether the observed mean age is statistically different from the hypothesized mean.
+Confidence Intervals:
+
+**95% Confidence Interval for Age:** Provides a range within which the true mean age of the population is likely to fall with 95% confidence.
+
+**Regression Analysis:**
+
+**Predicting Billing Amount:** A linear regression model was fitted to predict Billing Amount based on Age. The regression summary provides insights into the strength and direction of the relationship between age and billing amount.
+
+By using these analyses, you gain a comprehensive understanding of the data’s central tendencies, variability, and relationships. This approach aids in making data-driven decisions and identifying key factors influencing billing amounts in the healthcare context.
